@@ -6,25 +6,25 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://danzzapi.xyz': 'YOUR APIKEY',
+	'https://danzzapi.xyz': '921h5a4282',
 }
 
 // Other
 global.apikey = ['danzz'] // Get in: https://danzzapi.xyz
 global.apikeyprem = ['danzzprem'] // Get in: https://danzzapi.xyz
-global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.namabot = ['Neko-Bot']
-global.namaowner = ['ucing gemge']
-global.owner = ['6285692594570']
-global.premium = ['6285692594570']
+global.apikeyvip = ['921h5a4282'] // Get in: https://danzzapi.xyz
+global.namabot = ['𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕']
+global.namaowner = ['𝚉𝚊𝚕𝚕']
+global.owner = ['6281333154367']
+global.premium = ['6281333154367']
 global.packname = '© Powered By'
-global.author = 'https://danzzapi.xyz'
+global.author = '𝚉𝚊𝚕𝚕'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© UCING KECE'
+global.wm = '© 𝚉𝚊𝚕𝚕'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
